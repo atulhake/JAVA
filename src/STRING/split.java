@@ -2,7 +2,7 @@
  * 
  */
 package STRING;
-// added comment//
+// added comment
 /**
  * @author Atul
  *
